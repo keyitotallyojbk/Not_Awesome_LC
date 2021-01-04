@@ -12,3 +12,8 @@ Sort questions:
 
 Linked list questions:
   - [Linked list](./tree_linked_list)
+  
+Shortest Path:
+  - Dijkstra's Algorithm:
+    - [Cheapest flights within k stops](./heap/cheapest_flights_within_k_stops.py)
+    - [Network delay time](./heap/network_delay_time.py)
