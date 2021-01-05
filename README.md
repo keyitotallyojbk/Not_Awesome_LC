@@ -1,17 +1,20 @@
 # Awesome_LC
 A collection of awesome leecode questions that I've encountered during my preparation of SWE.
 
-Array questions: 
+Array: 
   - [Array](./array)
 
-Stack questions: 
+Stack: 
   - [Mono-stack](./mono_stack)
 
-Sort questions:
+Sort:
   - [Sort](./sort)
 
-Linked list questions:
+Linked List:
   - [Linked list](./tree_linked_list)
+
+Dynammic Programming:
+  - [Dynammic programming](./dp)
   
 Shortest Path:
   - Dijkstra's Algorithm:
