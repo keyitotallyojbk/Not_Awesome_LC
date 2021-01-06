@@ -27,14 +27,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://leetcode.com/">
+    <img src="images/leetcode.png" alt="Logo" width="180" height="110">
   </a>
 
   <h3 align="center">Awesome Leetcode Questions</h3>
 
   <p align="center">
-    An awesome leetcode reop during my preparation of SDE.
+    An awesome leetcode Q/A reop during my preparation of SDE
   </p>
 </p>
 
@@ -45,24 +45,24 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#array">Array</a>
+      <a href="./array">Array</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Prefix Sum</a></li>
       </ul>
     </li>
     <li>
-      <a href="#dp">DP</a>
+      <a href="./dp">DP</a>
       <ul>
         <li><a href="#knapsacks">knapsacks</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#graph">Graph</a></li>
-    <li><a href="#greedy">Greedy</a></li>
-    <li><a href="#heap">Heap</a></li>
-    <li><a href="#two_pointer">Two Pointer</a></li>
+    <li><a href="./graph">Graph</a></li>
+    <li><a href="./greedy">Greedy</a></li>
+    <li><a href="./heap">Heap</a></li>
+    <li><a href="./two_pointer">Two Pointer</a></li>
     <li>
-      <a href="#stack">Stack</a>
+      <a href="./stack">Stack</a>
       <ul>
         <li><a href="#mono_stack">Mono Stack</a></li>
         <li><a href="#mono_queue">Mono Queue</a></li>
@@ -170,10 +170,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@linkedln](https://www.linkedin.com/in/keyi-ren-02b48b129/) - [@email](k8ren@eng.ucsd.edu)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
