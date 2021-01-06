@@ -31,10 +31,12 @@
     <img src="images/leetcode.png" alt="Logo" width="180" height="110">
   </a>
 
-  <h3 align="center">Awesome Leetcode Questions</h3>
+  <h3 align="center">
+    <font size=6>Awesome Leetcode Questions</font>
+  </h3>
 
   <p align="center">
-    An awesome leetcode Q/A reop during my preparation of SDE.
+    An awesome leetcode Q/A reop during my preparation of SDE
   </p>
 </p>
 
@@ -51,21 +53,20 @@
       </ul>
     </li>
     <li>
-      <a href="#dp">DP</a>
+      <a href="./dp">DP</a>
       <ul>
-        <li><a href="#knapsacks">knapsacks</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="./knapsacks">knapsacks</a></li>
       </ul>
     </li>
-    <li><a href="#graph">Graph</a></li>
-    <li><a href="#greedy">Greedy</a></li>
-    <li><a href="#heap">Heap</a></li>
-    <li><a href="#two_pointer">Two Pointer</a></li>
+    <li><a href="./graph">Graph</a></li>
+    <li><a href="./greedy">Greedy</a></li>
+    <li><a href="./heap">Heap</a></li>
+    <li><a href="./two_pointer">Two Pointer</a></li>
     <li>
-      <a href="#stack">Stack</a>
+      <a href="./stack">Stack</a>
       <ul>
-        <li><a href="#mono_stack">Mono Stack</a></li>
-        <li><a href="#mono_queue">Mono Queue</a></li>
+        <li><a href="./mono_stack">Mono Stack</a></li>
+        <li><a href="./mono_queue">Mono Queue</a></li>
       </ul>
     </li>
     <li>
@@ -118,7 +119,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Keyi Ren - [@linkedin](https://www.linkedin.com/in/keyi-ren-02b48b129/) - [@email](k8ren@eng.ucsd.edu)
+Keyi Ren - [@linkedin](https://www.linkedin.com/in/keyi-ren-02b48b129/) - k8ren@eng.ucsd.edu
 
 Project Link: [https://github.com/keyitotallyojbk/Awesome_LC](https://github.com/keyitotallyojbk/Awesome_LC)
 
