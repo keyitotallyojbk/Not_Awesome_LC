@@ -31,12 +31,10 @@
     <img src="images/leetcode.png" alt="Logo" width="180" height="110">
   </a>
 
-  <h3 align="center">
-    <font size=6>Awesome Leetcode Questions</font>
-  </h3>
+  <h1 align="center">Awesome Leetcode Questions</h1>
 
   <p align="center">
-    An awesome leetcode Q/A reop during my preparation of SDE
+    An leetcode Q/A reop during my preparation of SDE
   </p>
 </p>
 
@@ -82,7 +80,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- TIPS FOR THE QUESTIONS -->
 ## Tips for the questions
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
