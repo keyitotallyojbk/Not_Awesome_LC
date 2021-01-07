@@ -85,7 +85,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-There are many great repos and tutorios showning the solutions abouu the questions, however, I found them either too redundant, or not that typical for most of the cases. Therefore I try to write my own solutions together with my understanding of that typical set of
+There are many great repos and tutorials showing the solutions about the questions, however, I found them either too redundant, or not that typical for most of the cases. Therefore I try to write my own solutions together with my understanding of that typical set of
 questions for my personal reference. They are not perfectly correct and may only apply to me, while I hope some day they will be a systematic report where you can benefit from.
 
 <!-- USAGE EXAMPLES -->
@@ -134,15 +134,15 @@ Project Link: [https://github.com/keyitotallyojbk/Awesome_LC](https://github.com
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/keyitotallyojbk/Awesome_LC/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/keyitotallyojbk/Awesome_LC/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/keyitotallyojbk/Awesome_LC/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/keyitotallyojbk/Awesome_LC/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/keyi-ren-02b48b129/
 [product-screenshot]: images/screenshot.png
