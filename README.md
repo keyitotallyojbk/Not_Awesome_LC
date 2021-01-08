@@ -57,8 +57,20 @@
       </ul>
     </li>
     <li><a href="./graph">Graph</a></li>
-    <li><a href="./greedy">Greedy</a></li>
-    <li><a href="./heap">Heap</a></li>
+    <li>
+      <a href="./greedy">Greedy</a>
+      <ul>
+        <li><a href="./greedy/maximum_number_of_events_that_can_be_attended.py">Maximum number of events that can be attended</a></li>
+        <li><a href="./greedy/split_array_into_consecutive_subsequences.py">Split array into consecutive subsequences</a></li>
+        <li><a href="./heap/maximum_number_of_eaten_apples.py">Maximum number of eaten apples</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="./heap">Heap</a>
+      <ul>
+        <li><a href="./maximum_number_of_eaten_apples.py">Maximum number of eaten apples</a></li>
+      </ul>
+    </li>
     <li><a href="./two_pointer">Two Pointer</a></li>
     <li>
       <a href="./stack">Stack</a>
