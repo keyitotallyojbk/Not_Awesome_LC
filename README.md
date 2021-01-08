@@ -75,6 +75,11 @@
           <a>-></a>
           <a href="./heap/maximum_number_of_eaten_apples.py">(Solution)</a>
         </li>
+        <li>
+          <a href="https://leetcode.com/problems/binary-tree-cameras/" >Binary tree camera</a>
+          <a>-></a>
+          <a href="./greedy/binary_tree_cameras.py">(Solution)</a>
+        </li>
       </ul>
     </li>
     <li>
