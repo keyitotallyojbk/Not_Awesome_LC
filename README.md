@@ -60,15 +60,31 @@
     <li>
       <a href="./greedy">Greedy</a>
       <ul>
-        <li><a href="./greedy/maximum_number_of_events_that_can_be_attended.py">Maximum number of events that can be attended</a></li>
-        <li><a href="./greedy/split_array_into_consecutive_subsequences.py">Split array into consecutive subsequences</a></li>
-        <li><a href="./heap/maximum_number_of_eaten_apples.py">Maximum number of eaten apples</a></li>
+        <li>
+          <a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/">Maximum number of events that can be attended</a>
+          <a>-></a> 
+          <a href="./greedy/maximum_number_of_events_that_can_be_attended.py">(Solution)</a>
+        </li>
+        <li>
+          <a href="https://leetcode.com/problems/split-array-into-consecutive-subsequences/">Split array into consecutive subsequences</a>
+          <a>-></a>
+          <a href="./greedy/split_array_into_consecutive_subsequences.py">(Solution)</a>
+        </li>
+        <li>
+          <a href="https://leetcode.com/problems/https://leetcode.com/problems/maximum-number-of-eaten-apples/">Maximum number of eaten apples</a>
+          <a>-></a>
+          <a href="./heap/maximum_number_of_eaten_apples.py">(Solution)</a>
+        </li>
       </ul>
     </li>
     <li>
       <a href="./heap">Heap</a>
       <ul>
-        <li><a href="./maximum_number_of_eaten_apples.py">Maximum number of eaten apples</a></li>
+        <li>
+          <a href="https://leetcode.com/problems/https://leetcode.com/problems/maximum-number-of-eaten-apples/">Maximum number of eaten apples</a>
+          <a>-></a>
+          <a href="./heap/maximum_number_of_eaten_apples.py">(Solution)</a>
+        </li>
       </ul>
     </li>
     <li><a href="./two_pointer">Two Pointer</a></li>
