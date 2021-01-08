@@ -61,17 +61,17 @@
       <a href="./greedy">Greedy</a>
       <ul>
         <li>
-          <a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/" target="_Blank">Maximum number of events that can be attended</a>
-          <a>-></a> 
+          <a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/">Maximum number of events that can be attended</a>
+          <a>-></a>
           <a href="./greedy/maximum_number_of_events_that_can_be_attended.py">(Solution)</a>
         </li>
         <li>
-          <a href="https://leetcode.com/problems/split-array-into-consecutive-subsequences/" target="_Blank">Split array into consecutive subsequences</a>
+          <a href="https://leetcode.com/problems/split-array-into-consecutive-subsequences/" >Split array into consecutive subsequences</a>
           <a>-></a>
           <a href="./greedy/split_array_into_consecutive_subsequences.py">(Solution)</a>
         </li>
         <li>
-          <a href="https://leetcode.com/problems/https://leetcode.com/problems/maximum-number-of-eaten-apples/" target="_Blank">Maximum number of eaten apples</a>
+          <a href="https://leetcode.com/problems/maximum-number-of-eaten-apples/" >Maximum number of eaten apples</a>
           <a>-></a>
           <a href="./heap/maximum_number_of_eaten_apples.py">(Solution)</a>
         </li>
@@ -81,7 +81,7 @@
       <a href="./heap">Heap</a>
       <ul>
         <li>
-          <a href="https://leetcode.com/problems/https://leetcode.com/problems/maximum-number-of-eaten-apples/" target="_Blank">Maximum number of eaten apples</a>
+          <a href="https://leetcode.com/problems/maximum-number-of-eaten-apples/" >Maximum number of eaten apples</a>
           <a>-></a>
           <a href="./heap/maximum_number_of_eaten_apples.py">(Solution)</a>
         </li>
@@ -161,15 +161,15 @@ Project Link: [https://github.com/keyitotallyojbk/Awesome_LC](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/keyitotallyojbk/Awesome_LC.svg?style=for-the-badge
 [contributors-url]: https://github.com/keyitotallyojbk/Awesome_LC/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/keyitotallyojbk/Awesome_LC.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/keyitotallyojbk/Awesome_LC.svg?style=for-the-badge
 [stars-url]: https://github.com/keyitotallyojbk/Awesome_LC/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/keyitotallyojbk/Awesome_LC.svg?style=for-the-badge
 [issues-url]: https://github.com/keyitotallyojbk/Awesome_LC/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/keyitotallyojbk/Awesome_LC.svg?style=for-the-badge
 [license-url]: https://github.com/keyitotallyojbk/Awesome_LC/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/keyi-ren-02b48b129/
