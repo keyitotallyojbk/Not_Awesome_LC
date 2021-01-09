@@ -90,6 +90,11 @@
           <a>-></a>
           <a href="./heap/maximum_number_of_eaten_apples.py">(Solution)</a>
         </li>
+        <li>
+          <a href="https://leetcode.com/problems/trapping-rain-water-ii/" >Trapping rain water II</a>
+          <a>-></a>
+          <a href="./heap/trapping_rain_water_II.py">(Solution)</a>
+        </li>
       </ul>
     </li>
     <li><a href="./two_pointer">Two Pointer</a></li>
