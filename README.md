@@ -44,19 +44,28 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <!-- Array -->
     <li>
       <a href="./array">Array</a>
       <ul>
         <li><a href="#prefix_sum">Prefix Sum</a></li>
       </ul>
     </li>
+    <!-- DP -->
     <li>
       <a href="./dp">DP</a>
       <ul>
         <li><a href="./knapsacks">knapsacks</a></li>
+        <li>
+          <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/">Best time to buy and sell stock with cooldown</a>
+          <a>-></a>
+          <a href="./dp/best_time_to_buy_and_sell_stock_with_cooldown.py">(Solution)</a>
+        </li>
       </ul>
     </li>
+    <!-- Graph -->
     <li><a href="./graph">Graph</a></li>
+    <!-- Greedy -->
     <li>
       <a href="./greedy">Greedy</a>
       <ul>
@@ -82,6 +91,7 @@
         </li>
       </ul>
     </li>
+    <!-- Heap -->
     <li>
       <a href="./heap">Heap</a>
       <ul>
@@ -97,7 +107,11 @@
         </li>
       </ul>
     </li>
-    <li><a href="./two_pointer">Two Pointer</a></li>
+    <!-- Two Pointer -->
+    <li>
+      <a href="./two_pointer">Two Pointer</a>
+    </li>
+    <!-- Stack -->
     <li>
       <a href="./stack">Stack</a>
       <ul>
@@ -105,6 +119,7 @@
         <li><a href="./mono_queue">Mono Queue</a></li>
       </ul>
     </li>
+    <!-- Shortest Path -->
     <li>
       <a href="#shortest_path">Shortest Path</a>
       <ul>
